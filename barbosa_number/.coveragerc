@@ -1,0 +1,5 @@
+[run]
+include = barbosa_number/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
